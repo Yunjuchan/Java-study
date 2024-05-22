@@ -1,7 +1,7 @@
 # 1주차 과제: JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.
 
-## 이기영 : https://velog.io/@ha_bu/JVM%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-JDKJRE
-## 윤주찬 : 
+#### 이기영 : https://velog.io/@ha_bu/JVM%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-JDKJRE
+#### 윤주찬 : 
 
 ## 목표
 > ### 자바 소스 파일(.java)을 JVM으로 실행하는 과정 이해하기.

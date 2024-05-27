@@ -1,6 +1,6 @@
 # 과제3 : 연산자
 
-#### 이기영 : https://velog.io/@ha_bu/%EC%9E%90%EB%B0%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85-%EB%B3%80%EC%88%98-%EB%B0%B0%EC%97%B4
+#### 이기영 : https://velog.io/@ha_bu/%EC%97%B0%EC%82%B0%EC%9E%90
 #### 윤주찬 : 
 
 ## 목표

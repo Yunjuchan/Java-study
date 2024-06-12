@@ -2,6 +2,7 @@
 
 #### 이기영 : https://velog.io/@ha_bu/JVM%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-JDKJRE
 #### 윤주찬 : https://velog.io/@wncks2546/JVM%EA%B3%BC-%EC%9E%90%EB%B0%94-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%8B%A4%ED%96%89%EB%B0%A9%EB%B2%95
+#### 서지현 : https://wus22.tistory.com/75
 
 ## 목표
 > ### 자바 소스 파일(.java)을 JVM으로 실행하는 과정 이해하기.

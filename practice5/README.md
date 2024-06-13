@@ -1,7 +1,7 @@
 # 과제5 : 클래스
 
 #### 이기영 : https://velog.io/@ha_bu/%ED%81%B4%EB%9E%98%EC%8A%A4
-#### 윤주찬 : 
+#### 윤주찬 : https://velog.io/@wncks2546/%ED%81%B4%EB%9E%98%EC%8A%A4
 
 ## 목표
 > ### 자바의 Class에 대해 학습하세요.

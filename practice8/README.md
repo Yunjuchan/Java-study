@@ -1,7 +1,7 @@
 # 과제8 : 인터페이스
 
 #### 이기영 : https://velog.io/@ha_bu/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4
-#### 윤주찬 : 
+#### 윤주찬 : https://velog.io/@wncks2546/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4
 
 ## 목표
 > ### 자바의 인터페이스에 대해 학습하세요.
